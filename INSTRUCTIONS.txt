@@ -1,0 +1,5 @@
+The key to fire the arrow is "space"
+The key to reset is "r"
+
+Display 1 shows the first person view.
+Display 2 shows the target view.
